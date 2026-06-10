@@ -1,6 +1,6 @@
 # 🎵 BuzzPlay — Packs de quiz
 
-Catalogue **public** des packs de quiz BuzzPlay. L'app le télécharge **automatiquement une fois par jour** (au premier lancement de la journée, silencieux, puis 100 % cache local hors-ligne) : **modifier ce fichier suffit**, aucune mise à jour de l'app n'est nécessaire.
+Catalogue **public** des packs de quiz BuzzPlay. L'app le télécharge **automatiquement à chaque lancement** (silencieux, puis cache local hors-ligne) : **modifier ce fichier suffit**, aucune mise à jour de l'app n'est nécessaire.
 
 ## ➕ Ajouter un quiz / un pack
 
@@ -30,7 +30,7 @@ Catalogue **public** des packs de quiz BuzzPlay. L'app le télécharge **automat
 }
 ```
 
-3. Commit → le pack apparaît dans l'app au prochain lancement d'une nouvelle journée, section **« Packs bonus »**.
+3. Commit → le pack apparaît dans l'app au prochain lancement, section **« Packs bonus »**.
 
 ## 🆓 Gratuit ou 🔒 premium ?
 
